@@ -1,16 +1,7 @@
-<style>
-    .text {
-        text-align:  center;
-        font-size:200%;
-    }
-    .mini-text{
-        text-align:  center;
-        font-size:90%;
-    }
-</style>
-
-<div class="text"><b>Voronov Nikita</b></div>
-<div class="mini-text">A student of school №1532</div>
+<div style="text-align:  center;
+        font-size:200%;"><b>Voronov Nikita</b></div>
+<div style="text-align:  center;
+        font-size:90%;">A student of school №1532</div>
 
 ![image](https://www.nastol.com.ua/pic/202006/1920x1080/nastol.com.ua-407340.jpg)
 
