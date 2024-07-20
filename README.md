@@ -1,24 +1,30 @@
+
 <div class="progress-container">
+
   <div class="neon-progress" style="--value: 60; --color: #43ec63;">
     <div class="circle"></div>
     <div class="label">Python</div>
     <div class="percentage">60%</div>
   </div>
+
   <div class="neon-progress" style="--value: 25; --color: #ffd700;">
     <div class="circle"></div>
     <div class="label">JavaScript</div>
     <div class="percentage">25%</div>
   </div>
+
   <div class="neon-progress" style="--value: 10; --color: #ff007f;">
     <div class="circle"></div>
     <div class="label">C++</div>
     <div class="percentage">10%</div>
   </div>
+
   <div class="neon-progress" style="--value: 5; --color: #ffffff;">
     <div class="circle"></div>
     <div class="label">Other</div>
     <div class="percentage">5%</div>
   </div>
+  
 </div>
 
 <style>
