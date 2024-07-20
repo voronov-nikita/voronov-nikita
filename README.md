@@ -1,4 +1,4 @@
-
+<!-- 
 <div class="progress-container">
 
   <div class="neon-progress" style="--value: 60; --color: #43ec63;">
@@ -24,7 +24,7 @@
     <div class="label">Other</div>
     <div class="percentage">5%</div>
   </div>
-  
+
 </div>
 
 <style>
@@ -82,4 +82,4 @@
     font-size: 1em;
     text-shadow: 0 0 5px var(--color), 0 0 10px var(--color);
   }
-</style>
+</style> -->
