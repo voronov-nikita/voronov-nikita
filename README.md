@@ -1,4 +1,4 @@
-<!-- 
+
 <div class="progress-container">
 
   <div class="neon-progress" style="--value: 60; --color: #43ec63;">
@@ -24,7 +24,6 @@
     <div class="label">Other</div>
     <div class="percentage">5%</div>
   </div>
-
 </div>
 
 <style>
@@ -35,7 +34,6 @@
     flex-wrap: wrap;
     margin: 20px;
   }
-
   .neon-progress {
     display: flex;
     flex-direction: column;
@@ -43,7 +41,6 @@
     position: relative;
     margin: 10px;
   }
-
   .circle {
     --size: 100px;
     --bg: #222;
@@ -54,7 +51,6 @@
     position: relative;
     box-shadow: 0 0 15px var(--color), 0 0 30px var(--color);
   }
-
   .circle::before {
     content: "";
     position: absolute;
@@ -65,7 +61,6 @@
     top: 10%;
     left: 10%;
   }
-
   .percentage {
     font-size: 1.2em;
     color: #fff;
@@ -75,11 +70,10 @@
     transform: translate(-50%, -50%);
     z-index: 1;
   }
-
   .label {
     margin-top: 10px;
     color: var(--color);
     font-size: 1em;
     text-shadow: 0 0 5px var(--color), 0 0 10px var(--color);
   }
-</style> -->
+</style>
