@@ -1,7 +1,3 @@
-<head>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/4.0.0/github-markdown.min.css">
-</head>
-
 > [!IMPORTANT]
 > **⭐ Цель**: сделать что-то важное
 > 
@@ -27,9 +23,4 @@
 > 4. **[TempRule](https://github.com/voronov-nikita/TempRule)** - WEB игра в стиле стратегии правления
 
 
-
-
 ![Voronov's GitHub stats](https://github-readme-stats.vercel.app/api?username=voronov-nikita&theme=calm_pink&show_icons=true)
-
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/marked/4.0.12/marked.min.js"></script>
