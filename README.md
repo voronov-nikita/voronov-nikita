@@ -14,13 +14,13 @@
 
 > [!NOTE]
 > **🏆 Топ проектов**:
-> 1. **[MyBanker](https://github.com/voronov-nikita/MyBanker)** - приложение для удобного контроля финансов
+> 1. - [x] **[MyBanker](https://github.com/voronov-nikita/MyBanker)** - приложение для удобного контроля финансов
 > 
-> 2. **[SmartFridge](https://github.com/voronov-nikita/SmartFridge)** - приложение для проведение и учета продуктов
+> 2. - [x] **[SmartFridge](https://github.com/voronov-nikita/SmartFridge)** - приложение для проведение и учета продуктов
 >
-> 3. **[PlantHome](https://github.com/voronov-nikita/PlantHome)** - умный цветочный горшок с удаленным управлением
+> 3. - [ ] **[PlantHome](https://github.com/voronov-nikita/PlantHome)** - умный цветочный горшок с удаленным управлением
 >
-> 4. **[TempRule](https://github.com/voronov-nikita/TempRule)** - WEB игра в стиле стратегии правления
+> 4. - [ ] **[TempRule](https://github.com/voronov-nikita/TempRule)** - WEB игра в стиле стратегии правления
 
 
 ![Voronov's GitHub stats](https://github-readme-stats.vercel.app/api?username=voronov-nikita&theme=calm_pink&show_icons=true)
